@@ -1,0 +1,172 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "image": "https://example.com/phone1.jpg",
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "price": 999.99,
+      "features": [
+        "A15 Bionic Chip",
+        "6.1-inch Super Retina XDR Display",
+        "Dual Camera System",
+        "iOS 15",
+        "Face ID"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/phone2.jpg",
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "price": 799.99,
+      "features": [
+        "Exynos 2100 Processor",
+        "6.2-inch Dynamic AMOLED 2X Display",
+        "Triple Camera System",
+        "One UI 3.1",
+        "In-Display Fingerprint Scanner"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/phone3.jpg",
+      "brand": "Google",
+      "model": "Pixel 6",
+      "price": 799.99,
+      "features": [
+        "Google Tensor Processor",
+        "6.4-inch OLED Display",
+        "Dual Camera System with AI enhancements",
+        "Android 12",
+        "Fast Charging"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/phone4.jpg",
+      "brand": "OnePlus",
+      "model": "OnePlus 9",
+      "price": 899.99,
+      "features": [
+        "Snapdragon 888 Processor",
+        "6.55-inch Fluid AMOLED Display",
+        "Triple Camera System",
+        "OxygenOS 11",
+        "Fast Charging"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/phone5.jpg",
+      "brand": "Xiaomi",
+      "model": "Mi 11",
+      "price": 699.99,
+      "features": [
+        "Snapdragon 888 Processor",
+        "6.81-inch AMOLED Display",
+        "Triple Camera System",
+        "MIUI 12",
+        "Wireless Charging"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://example.com/phone6.jpg",
+      "brand": "Sony",
+      "model": "Xperia 1 III",
+      "price": 1099.99,
+      "features": [
+        "Snapdragon 888 Processor",
+        "6.5-inch 4K HDR OLED Display",
+        "Triple Camera System with Zeiss optics",
+        "Android 11",
+        "IP65/68 Water and Dust Resistance"
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://example.com/phone7.jpg",
+      "brand": "Huawei",
+      "model": "P40 Pro",
+      "price": 899.99,
+      "features": [
+        "Kirin 990 Processor",
+        "6.58-inch OLED Display",
+        "Quad Camera System with Leica lenses",
+        "EMUI 10.1",
+        "5G Connectivity"
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://example.com/phone8.jpg",
+      "brand": "LG",
+      "model": "LG V60 ThinQ",
+      "price": 799.99,
+      "features": [
+        "Snapdragon 865 Processor",
+        "6.8-inch P-OLED Display",
+        "Dual Camera System",
+        "LG UX 9.0",
+        "Dual Screen Support"
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://example.com/phone9.jpg",
+      "brand": "Motorola",
+      "model": "Moto G Power (2021)",
+      "price": 199.99,
+      "features": [
+        "Snapdragon 662 Processor",
+        "6.6-inch HD+ IPS Display",
+        "Triple Camera System",
+        "Stock Android 10",
+        "5000mAh Battery"
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://example.com/phone10.jpg",
+      "brand": "Nokia",
+      "model": "Nokia 8.3 5G",
+      "price": 599.99,
+      "features": [
+        "Snapdragon 765G Processor",
+        "6.81-inch PureDisplay IPS LCD",
+        "Quad Camera System",
+        "Android 10",
+        "5G Connectivity"
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://example.com/phone11.jpg",
+      "brand": "Oppo",
+      "model": "Oppo Reno 4 Pro",
+      "price": 699.99,
+      "features": [
+        "Snapdragon 765G Processor",
+        "6.5-inch AMOLED Display",
+        "Triple Camera System",
+        "ColorOS 7.2",
+        "Fast Charging"
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://example.com/phone12.jpg",
+      "brand": "Realme",
+      "model": "Realme 8",
+      "price": 249.99,
+      "features": [
+        "MediaTek Helio G95 Processor",
+        "6.4-inch Super AMOLED Display",
+        "Quad Camera System",
+        "Realme UI 2.0",
+        "5000mAh Battery"
+      ]
+    }
+  ]
+}
