@@ -4,12 +4,12 @@ import { Phones } from "../../Components/Phones/Phones";
 
 export const HomePage = () => {
   const phones = useLoaderData();
-  console.log(phones.phones);
+  
 
   return (
     <div>
       <Banner></Banner>
-      <Phones></Phones>
+      <Phones phones={phones}></Phones>
     </div>
   );
 };

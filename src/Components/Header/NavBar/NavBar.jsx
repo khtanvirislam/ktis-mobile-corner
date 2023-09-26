@@ -14,7 +14,7 @@ export const NavBar = () => {
                 isPending
                   ? "pending"
                   : isActive
-                  ? "bg-red-400 font-semibold p-2 rounded"
+                  ? "bg-blue-400 font-semibold p-2 rounded text-white"
                   : ""
               }
             >
@@ -29,7 +29,7 @@ export const NavBar = () => {
                 isPending
                   ? "pending"
                   : isActive
-                  ? "bg-red-400 font-semibold p-2 rounded"
+                  ? "bg-blue-400 font-semibold p-2 rounded  text-white"
                   : ""
               }
             >
@@ -44,7 +44,7 @@ export const NavBar = () => {
                 isPending
                   ? "pending"
                   : isActive
-                  ? "bg-red-400 font-semibold p-2 rounded"
+                  ? "bg-blue-400 font-semibold p-2 rounded  text-white"
                   : ""
               }
             >
